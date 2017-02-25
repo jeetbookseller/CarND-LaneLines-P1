@@ -1,9 +1,12 @@
 #**Finding Lane Lines on the Road** 
 
+<img src="test_images/solidYellowLeft_after.jpg" width="480" alt="Combined Image" />
+
+Detect lane lines in video stream using Python and OpenCV.
+
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
-
 
 ### Reflection
 
